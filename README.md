@@ -1,6 +1,6 @@
 # pytorch_challenge
 
-The repository is forked from the Udacity Pytorch Challenge site. 
+The repository is forked from the Udacity Pytorch Challenge site https://github.com/udacity/pytorch_challenge. 
 
 I was a participant in the inaugeral challenge of 2018/2019, and was successful in being accepted for the Facebook Scholarship that was awarded to 300 of the 10,000 participants in the challenge.
 
